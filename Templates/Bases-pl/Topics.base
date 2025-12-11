@@ -1,0 +1,22 @@
+filters:
+  and:
+    - categories == link("Topics")
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.name.contains("Template")'
+    order:
+      - file.name
+      - categories
+      - type
+      - created
+      - last
+    sort:
+      - property: categories
+        direction: ASC
+    columnSize:
+      file.name: 138

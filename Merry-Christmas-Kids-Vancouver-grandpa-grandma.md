@@ -16,7 +16,7 @@ type:
 
 Hello kids,
 
-I wish both of you, Alex and Sophie, a Merry Christmas and a Happy New Year. It was good to see Sophie over the Thanksgiving week! Also, I would very much like to see you Alex and catch up on things like we used to. Can we both work on it? 
+I wish both of you, Alex and Sophie, a Merry Christmas and a Happy New Year. It was good to see Sophie over the Thanksgiving week! Also, I would very much like to see you Alex and catch up on things like we used to. How about it - Can we both work on it? 
 
 Grandma passed away this morning in her room on Christmas eve.  We are flying out to Vancouver tomorrow and so will Chi-ah. We spoke to Mom everyday for the past month and also yesterday. 
 

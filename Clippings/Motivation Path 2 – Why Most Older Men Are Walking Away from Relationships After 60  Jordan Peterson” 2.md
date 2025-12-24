@@ -9,4 +9,4 @@ created: 2025-12-24
 tags:
   - "videos"
 ---
-![Why Most Older Men Are Walking Away from Relationships After 60 | Jordan Peterson”](https://www.youtube.com/watch?v=yPZBNAOQi6Y)
+![Why Most Older Men Are Walking Away from Relationships After 60 | Jordan Peterson”](https://www.youtube.com/watch?v=yPZBNAOQi6Y) 

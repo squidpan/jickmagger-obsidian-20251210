@@ -17,9 +17,9 @@ type:
 [writeorbituary](https://www.connelly-mckinley.com/resources/inspiration-for-writing-a-meaningful-obituary)
 **The family of Kyoung-Sun “Sunny” Lyu** passed away peacefully the morning of December 24, 2025 with the love of her family surrounding her. 
   
-Sunny will be remembered by her three children, as well as numerous other family members and friends. Sunny was predeceased by his husband.  
+Sunny will be remembered by her three children, as well as numerous other family members and friends. Sunny was predeceased by his husband, .  
 
-Sunny
+Sunny was born in Seoul, Korea in 1936 as the only daughter to Yoonsook and Hosang. She loved and worked in Paris with her kids, travelled and lived to different parts of the world before coming to Vancouver in 1997.
 
 A private family service will take place this year.  
   

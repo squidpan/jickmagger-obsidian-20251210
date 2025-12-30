@@ -14,6 +14,7 @@ type:
 ---
 # O
 
+[writeorbituary](https://www.connelly-mckinley.com/resources/inspiration-for-writing-a-meaningful-obituary)
 **The family of Kyoung-Sun “Sunny” Lyu** passed away peacefully the morning of December 24, 2025 with the love of her family surrounding her. 
   
 Sunny will be remembered by her three children, as well as numerous other family members and friends. Sunny was predeceased by his husband.  

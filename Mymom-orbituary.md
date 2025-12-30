@@ -14,6 +14,8 @@ type:
 ---
 # O
 
+[[2025-12-29-Mon-Kids-Grandpa]]
+
 [writeorbituary](https://www.connelly-mckinley.com/resources/inspiration-for-writing-a-meaningful-obituary)
 **The family of Kyoung-Sun “Sunny” Lyu** passed away peacefully the morning of December 24, 2025 with the love of her family surrounding her. 
   
